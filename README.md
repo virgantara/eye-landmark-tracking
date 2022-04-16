@@ -6,7 +6,7 @@
  1. `pip install opencv-python`
  2. `pip install numpy pandas imutils scipy`
  3. Install DLIB. Follow [this tutorial](https://medium.com/analytics-vidhya/how-to-install-dlib-library-for-python-in-windows-10-57348ba1117f)
- 4. Download shape preditor from [here](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
+ 4. Download shape preditor from [here](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2) and put in the project working directory 
  
 # Credits
 
